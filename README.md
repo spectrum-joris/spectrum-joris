@@ -2,7 +2,7 @@
 
 ## 👀 I’m interested in...
 - **Programming languages:** JavaScript, PHP, SQL
-- **Frameworks and Tools:** React, Laravel, Eleventy, Figma, HTML, CSS
+- **Frameworks and Tools:** React, Laravel, Eleventy, Figma, HTML, CSS, Bootstrap, Tailwind CSS
 - **Web Development:** Frontend and Backend
 - **SEO Optimization:** Enhancing website visibility and performance
 - **Helping and instructing people** on their learning journey
